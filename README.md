@@ -20,3 +20,5 @@ npm i
 npm start
 ```
 3. The server will start on **http://localhost:3000**
+
+#### Find same app without redux [here](https://github.com/SaadJamilAkhtar/react-burger-app)
