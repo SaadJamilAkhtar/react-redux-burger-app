@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 function Header(props) {
     return (
         <div className="header">
-            <div className="header-logo">LOGO</div>
+            <div className="header-logo">Redux Burger App</div>
             <div className="header-nav">
                 <ul>
                     <li className='nav-link'><Link to={'/'}>Burger Builder</Link></li>
