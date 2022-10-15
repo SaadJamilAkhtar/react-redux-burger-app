@@ -11,7 +11,7 @@ import {addOrder} from '../../store/orderSlice'
 function OrderForm(props) {
     const navigate = useNavigate();
     const dispatch = useDispatch();
-    const ingredients = useSelector( state => state.ingredients)
+    const ingredients = useSelector( state => state.burger)
     const price = useSelector( state => state.price.price)
 
 
